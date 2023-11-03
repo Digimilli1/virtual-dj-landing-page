@@ -30,7 +30,7 @@ body{
   background-color:ghostwhite;
   font-family:'Raleway', sans-serif;
 }
-
+/* logo */
 .logo{
   width:60vw;
 }
@@ -43,7 +43,7 @@ body{
   align-items:center;
   margin-left:20px;
 }
-
+/* navigation bar */
 nav{
   font-weight:400;
 }
@@ -80,7 +80,7 @@ a{
   width:100%;
   margin:0 auto;
 }
-
+/* hero text */
 #hero{
   display: flex;
   flex-direction: column;
@@ -132,7 +132,7 @@ form{
 .grid{
   display:flex;
 }
-
+/* features */
 #features.icon{
   display: flex;
   align-items: center;
@@ -169,7 +169,7 @@ p{
   max-width: 560px;
   width: 100%;
 }
-
+/* pricing */
 #pricing{
   margin-top:60px;
   display: flex;
@@ -230,7 +230,7 @@ p{
   background:transparent;
   cursor:pointer;
 }
-
+/* footer */
 footer{
   margin-top: 30px;
   background-color: #ddd;
